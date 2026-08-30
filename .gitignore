@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Demo video (büyük dosya — kendin oluştur)
+demo/test_video.mp4
+demo/*.mp4
+demo/*.avi
+
+# Ekran görüntüleri
+screenshots/
+
+# Kişisel video dosyaları (büyük boyut — git'e ekleme)
+# Ama videos/ klasörü .gitkeep ile repoda tutulur
+videos/*.mp4
+videos/*.avi
+videos/*.mov
+videos/*.mkv
+videos/*.webm
+
+# Sanal ortam
+venv/
+env/
+.venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Pip cache
+*.egg-info/
+dist/
+build/
+
+# Çıktı dosyaları
+output/
+*.log

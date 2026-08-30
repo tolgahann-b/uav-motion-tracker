@@ -1,0 +1,5 @@
+# Bu dosya videos/ klasörünün Git'te görünmesi için buradadır.
+# Kendi video dosyalarını bu klasöre ekleyebilirsin.
+# Örnek kullanım:
+#   python main.py --source videos/trafik.mp4
+#   python main.py --source videos/drone_kayit.mp4
